@@ -23,6 +23,8 @@ I am currently a Computer Science major, 2 semesters from graduation. I am curre
 #
 
 <summary><h3>Background</h3></summary>
+
+<i>Classic</i> tale of 30-something mom with a background in management and nursing turned software developer. I am 
 <!---
 havenhobbs/havenhobbs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
