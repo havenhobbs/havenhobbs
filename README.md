@@ -2,9 +2,11 @@
 
 I am currently a Computer Science major at UTC with 2 semesters left. I am currently enjoying front-end projects using HTML, CSS, and JS, but end goal is to become a full-stack developer. I've started this process with increased practice in Java and Python. 
 
-## Skills 
-* HTML, CSS, JS
-* Java, Python
+## Languages and Tools 
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src=<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+
+
 
 ## Projects
 * 
