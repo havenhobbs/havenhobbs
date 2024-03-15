@@ -1,6 +1,6 @@
 # Haven Hobbs
 
-I am currently a Computer Science major at UTC with 2 semesters left. I am currently enjoying front-end projects using HTML, CSS, and JS, but end goal is to become a full-stack developer. I've started this process with increased practice in Java and Python. 
+I am currently a Computer Science major, 2 semesters from graduation. I am currently enjoying front-end projects using HTML, CSS, and JS, but end goal is to become a full-stack developer. I've started this process with increased practice in Java and Python. 
 
 ## Languages and Tools 
 
