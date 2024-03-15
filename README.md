@@ -20,6 +20,8 @@ I am currently a Computer Science major at UTC with 2 semesters left. I am curre
 
 ![Haven's GitHub stats](https://github-readme-stats.vercel.app/api?username=havenhobbs&theme=gotham&show_icons=true)
 
+#
+
 <summary><h3>Background</h3></summary>
 <!---
 havenhobbs/havenhobbs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
