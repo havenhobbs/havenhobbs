@@ -6,6 +6,9 @@ I am currently a Computer Science major at UTC with 2 semesters left. I am curre
 * HTML, CSS, JS
 * Java, Python
 
+## Projects
+* 
+
 <!---
 havenhobbs/havenhobbs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
