@@ -1,6 +1,6 @@
 # Haven Hobbs
 
-I am a Computer Science major with 2 semesters from graduation. I'm currently enjoying front-end projects using HTML, CSS, and JS, but end goal is to become a full-stack developer. I've started this process with increased practice in Java and Python. 
+Computer Science major with 2 semesters from graduation. I'm currently enjoying front-end projects using HTML, CSS, and JS, but end goal is to become a full-stack developer. I've started this process with increased practice in Java and Python. 
 
 ## Languages and Tools 
 
@@ -12,7 +12,8 @@ I am a Computer Science major with 2 semesters from graduation. I'm currently en
 <img align="left" alt="Java" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Java" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 <img align="left" alt="Java" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
-          
+<img align="left" alt="Java" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
+
 <br />
 
 #
@@ -26,7 +27,7 @@ I am a Computer Science major with 2 semesters from graduation. I'm currently en
 
 <summary><h3>Background</h3></summary>
 
-Classic tale of 30-something mom with a background in management and nursing turned software developer. I am 
+Classic tale of 30-something mom with a background in management & nursing turned software engineer. I am profoundly gifted in locating and journeying the non-traditional path. 
 
 <!---
 havenhobbs/havenhobbs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
