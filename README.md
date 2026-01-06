@@ -1,6 +1,6 @@
 # Haven Hobbs
 
-Computer Science major in final semester from graduation. I'm currently enjoying front-end projects using HTML, CSS, and JS, but end goal is to become a full-stack developer. I've started this process with increased practice in Java and Python. 
+Computer Science graduate. I'm currently enjoying front-end projects using HTML, CSS, and JS, but end goal is to become a full-stack developer. I've started this process with increased practice in Java and Python. 
 
 ## Languages and Tools 
 
