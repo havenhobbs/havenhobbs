@@ -1,33 +1,42 @@
-# Haven Hobbs
+# 🌻 hi, i'm haven <3
 
-Computer Science graduate. I'm currently enjoying front-end projects using HTML, CSS, and JS, but end goal is to become a full-stack developer. I've started this process with increased practice in Java and Python. 
+### compsci grad | builder of useful things | flower farmer
 
-## Languages and Tools 
+i like to build useful things and make them pretty :)
 
-<img align="left" alt="Java" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" />
-<img align="left" alt="Java" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
-<img align="left" alt="Java" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
-<img align="left" alt="Java" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
-<img align="left" alt="Java" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="Java" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-<img align="left" alt="Java" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-<img align="left" alt="Java" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
-<img align="left" alt="Java" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
+---
 
-<br />
+### things i know how to use
 
-#
+* **frontend** - javascript | html | css | react
+* **backend** - java | python | flask | sqlalchemy
+* **dbs + storage** - mysql | relational data modeling | schema design
+* **cloud + env** - vercel | gh version control
+* **dev ecosystems** - vs code | jupyter notebook | eclipse
 
-## Projects
-* 
+---
 
-![Haven's GitHub stats](https://github-readme-stats.vercel.app/api?username=havenhobbs&theme=gotham&show_icons=true)
+### this is a story about a girl named lucky ✨
 
-#
+classic tale of 30-something mom with a background in management + nursing turned software engineer who is profoundly gifted in locating and journeying the non-traditional path
 
-<summary><h3>Background</h3></summary>
+---
 
-Classic tale of 30-something mom with a background in management & nursing turned software engineer. I am profoundly gifted in locating and journeying the non-traditional path. 
+### i worked hard on these
+
+#### [acculaunch] - (https://github.com/havenhobbs/acculaunch.git)
+* **senior capstone**
+* **tech stack** - javascript | python | css | html
+    
+#### [bird_id] - (https://github.com/havenhobbs/bird_id.git)
+* **i love bird (+ merlinid)**
+* **tech stack** - python | jupyter notebook
+
+---
+
+### let's chit chat
+
+**[linkedin.com/in/havenhobbs](https://linkedin.com/in/havenhobbs)**
 
 <!---
 havenhobbs/havenhobbs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
