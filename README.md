@@ -1,6 +1,6 @@
 # 🌻 hi, i'm haven <3
 
-### compsci grad | builder of useful things | flower farmer
+### compsci grad | builder of useful things | flower farmer + beekeeper
 
 i like to build useful things and make them pretty :)
 
@@ -19,6 +19,8 @@ i like to build useful things and make them pretty :)
 ### this is a story about a girl named lucky ✨
 
 classic tale of 30-something mom with a background in management + nursing turned software engineer who is profoundly gifted in locating and journeying the non-traditional path
+
+a grandma at heart - hobbies include: reading, stained glass, cross-stitching, crocheting, baking, and gardening
 
 ---
 
